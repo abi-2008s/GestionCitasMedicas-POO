@@ -1,1 +1,1 @@
-# Sistema-de-Gestión-de-Citas-Médicas-Online-Proyecto-de-Cátedra-POO
+# Sistema de Gestión de Citas Médicas Online - Proyecto de Cátedra POO
